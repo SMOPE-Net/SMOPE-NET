@@ -128,7 +128,7 @@ sh ./make.sh
 
 ## KITTI-3D
 
-- Download the dataset from [[here]](https://github.com/CongliangLi/LabelImg3D/#Dateset).
+- Download the dataset from [here](https://github.com/CongliangLi/LabelImg3D/#Dateset).
 
 - Run the creat_dataset.py
 ```shell
